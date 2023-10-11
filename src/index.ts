@@ -1,1 +1,1 @@
-export const myPackage = (taco = ''): string => `${taco} from my package`;
+export const getProvinces = (taco = ''): string => `${taco} from my package`;
